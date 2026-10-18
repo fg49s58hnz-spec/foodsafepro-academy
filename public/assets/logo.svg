@@ -1,0 +1,23 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">FoodSafe Pro Academy logo</title>
+  <desc id="logoDesc">A stylized, modern brand mark with pink and blue gradients for the FoodSafe Pro Academy brand.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#F15BB5" />
+      <stop offset="100%" stop-color="#2D7FF9" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#EAF2FF" stop-opacity="0.85" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="72" fill="url(#bg)"/>
+  <path d="M117 155C117 126.282 140.282 103 169 103H214C242.718 103 266 126.282 266 155V209C266 237.718 242.718 261 214 261H169C140.282 261 117 237.718 117 209V155Z" fill="url(#accent)" opacity="0.5"/>
+  <path d="M158 136H196C214.778 136 230 151.222 230 170V181C230 199.778 214.778 215 196 215H158V136Z" fill="#F7FBFF" opacity="0.96"/>
+  <path d="M152 243H326C352.51 243 374 264.49 374 291V302C374 328.51 352.51 350 326 350H152L196 292.5L152 243Z" fill="#F7FBFF" opacity="0.94"/>
+  <path d="M156 305L240 268L334 342L268 384L156 305Z" fill="#EAF3FF" opacity="0.92"/>
+  <circle cx="382" cy="168" r="64" fill="#FFFFFF" opacity="0.75"/>
+  <path d="M361 168H404" stroke="#2D7FF9" stroke-width="20" stroke-linecap="round"/>
+  <path d="M382 147V189" stroke="#2D7FF9" stroke-width="20" stroke-linecap="round"/>
+  <path d="M110 338C145 279 217 239 299 239C346 239 383 251 421 275" stroke="#F7FBFF" stroke-width="18" stroke-linecap="round" opacity="0.7"/>
+</svg>
